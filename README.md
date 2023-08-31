@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JackalsonEnterprise1998
-- 👀 I’m interested in ...
+- 👀 I’m interested in software developing.
 - 🌱 I’m currently learning Java & Kotlin
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me whatsapp +27649617403
+- 💞️ I’m looking for an organization that will offer training in computer science.
+- 📫 How to reach me whatsapp +27655083071
 
 <!---
 JackalsonEnterprise1998/JackalsonEnterprise1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
